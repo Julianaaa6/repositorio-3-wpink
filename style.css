@@ -1,0 +1,23 @@
+header { background-color: blue;
+border-color: aquamarine;
+border-width:9px;
+ border-style: double;
+margin-left: 25%;
+margin-right: 10%;
+}
+
+main {background-color: black;
+border-color: aqua;
+border-width: 9px;
+border-style: double;
+margin-left:25%;
+margin-right: 10%;
+}
+
+footer {background-color: brown;
+border-color: aquamarine;
+border-width: 7px;
+border-style: double;
+margin-left: 12%;
+margin-right: 45%
+;}
